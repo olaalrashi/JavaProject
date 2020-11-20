@@ -16,10 +16,11 @@ public class JavaProject {
      */
     public static void main(String[] args) {
         
-        System.out.println("javaproject.JavaProject.main()");
+        System.out.println("abd");
         // TODO code application logic here
     }
-    
+   
+                    
     
   
     
